@@ -1,0 +1,8 @@
+C:\Users\raphr\source\repos\GameOfLife\GameOfLife\obj\Debug\netstandard2.0\GameOfLifeLib.AssemblyInfoInputs.cache
+C:\Users\raphr\source\repos\GameOfLife\GameOfLife\obj\Debug\netstandard2.0\GameOfLifeLib.AssemblyInfo.cs
+C:\Users\raphr\source\repos\GameOfLife\GameOfLife\bin\Debug\netstandard2.0\GameOfLifeLib.deps.json
+C:\Users\raphr\source\repos\GameOfLife\GameOfLife\bin\Debug\netstandard2.0\GameOfLifeLib.dll
+C:\Users\raphr\source\repos\GameOfLife\GameOfLife\bin\Debug\netstandard2.0\GameOfLifeLib.pdb
+C:\Users\raphr\source\repos\GameOfLife\GameOfLife\obj\Debug\netstandard2.0\GameOfLifeLib.dll
+C:\Users\raphr\source\repos\GameOfLife\GameOfLife\obj\Debug\netstandard2.0\GameOfLifeLib.pdb
+C:\Users\raphr\source\repos\GameOfLife\GameOfLife\obj\Debug\netstandard2.0\GameOfLifeLib.csprojAssemblyReference.cache

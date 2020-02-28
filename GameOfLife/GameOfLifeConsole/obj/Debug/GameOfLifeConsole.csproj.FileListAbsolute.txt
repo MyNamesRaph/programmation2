@@ -1,0 +1,9 @@
+C:\Users\raphr\source\repos\GameOfLife\GameOfLifeConsole\bin\Debug\GameOfLifeConsole.exe.config
+C:\Users\raphr\source\repos\GameOfLife\GameOfLifeConsole\bin\Debug\GameOfLifeConsole.exe
+C:\Users\raphr\source\repos\GameOfLife\GameOfLifeConsole\bin\Debug\GameOfLifeConsole.pdb
+C:\Users\raphr\source\repos\GameOfLife\GameOfLifeConsole\bin\Debug\GameOfLifeLib.dll
+C:\Users\raphr\source\repos\GameOfLife\GameOfLifeConsole\bin\Debug\GameOfLifeLib.pdb
+C:\Users\raphr\source\repos\GameOfLife\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.csprojAssemblyReference.cache
+C:\Users\raphr\source\repos\GameOfLife\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.csproj.CopyComplete
+C:\Users\raphr\source\repos\GameOfLife\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.exe
+C:\Users\raphr\source\repos\GameOfLife\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.pdb
