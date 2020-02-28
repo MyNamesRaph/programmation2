@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raphr\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLifeLib.csproj",
+      "projectUniqueName": "C:\\Users\\raphr\\Source\\Repos\\MyNamesRaph\\programmation2\\GameOfLife\\GameOfLife\\GameOfLifeLib.csproj",
       "projectName": "GameOfLifeLib",
-      "projectPath": "C:\\Users\\raphr\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLifeLib.csproj",
+      "projectPath": "C:\\Users\\raphr\\Source\\Repos\\MyNamesRaph\\programmation2\\GameOfLife\\GameOfLife\\GameOfLifeLib.csproj",
       "packagesPath": "C:\\Users\\raphr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raphr\\source\\repos\\GameOfLife\\GameOfLife\\obj\\",
+      "outputPath": "C:\\Users\\raphr\\Source\\Repos\\MyNamesRaph\\programmation2\\GameOfLife\\GameOfLife\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
